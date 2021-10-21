@@ -1,7 +1,7 @@
 ### Oláaa! Eu sou o Rafael Costa.
 
 - 👨🏾‍🎓 Hoje eu sou estudante do curso técnologo análise e desenvolvimento de sistemas pelo IFPE e estudante de desenvolvimento web fullstack.
-- 🌱 Estudando JavaScript, HTML e CSS.
+- 🌱 Estudando JavaScript, Python, HTML e CSS.
 
 <div>
   <a href="https://github.com/rafacostadev">
