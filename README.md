@@ -1,25 +1,51 @@
-### Olá! Eu sou o Rafael Costa.
-
-- 👨🏾‍🎓 Hoje eu sou estudante do curso técnologo análise e desenvolvimento de sistemas pelo IFPE.
-- 🌱 Estudando Java|Spring|Spring Boot.
-
-<div>
-  <a href="https://github.com/rafacostadev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafacostadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height ="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=rafacostadev&layout=compact&theme=dracula">
+<div align="center">
+  <img href="https://www.instagram.com/rafacosta.svg/" target="_blank" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img href="https://www.instagram.com/rafacosta.svg/" target="_blank" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img href = "mailto:rafaelcostamantis@gmail.com" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
-  
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-Py" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-    <img align="right" alt="Rafa-gif" src="https://media.discordapp.net/attachments/869253824194412594/884267810442842172/Webp.net-gifmaker.gif">
-  </div>
 
-  ##
-  
-<div>
-  <a href="https://www.instagram.com/rafacosta.svg/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rafaelcostamantis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-costa-732b791ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rafacostadev.rafacostadev&"  />
 </div>
-  
-![Snake animation](https://github.com/rafacostadev/rafacostadev/blob/output/github-contribution-grid-snake.svg)
+
+###
+
+<h1 align="center">Hello there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  Sobre mim</h3>
+
+###
+
+<p align="left">Me chamo Rafael Correia, curso Análise e Desenvolvimento de Sistemas no IFPE.<br><br>- 🔭 Procuro pela primeira oportunidade em desenvolvimento back-end.<br>- 📚 Atualmente estou estudando Java | Spring,<br>- ⚡ No meu tempo livre amo tocar Maracatú/percussão e jogar.</p>
+
+###
+
+<h3 align="left">🛠 Linguagens e ferramentas</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   Meu status:</h3>
+
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=rafacostadev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
