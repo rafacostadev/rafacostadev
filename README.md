@@ -22,6 +22,14 @@
 
 <p align="left">Me chamo Rafael Correia, curso Análise e Desenvolvimento de Sistemas no IFPE.<br><br>- 🔭 Procuro pela primeira oportunidade em desenvolvimento back-end.<br>- 📚 Atualmente estou estudando Java | Spring,<br>- ⚡ No meu tempo livre amo tocar Maracatú/percussão e jogar.</p>
 
+<details>
+  <summary>👨‍💻 Mais sobre mim...</summary>
+
+  - 💬 Eu tenho 25 anos, estudante do curso tecnólogo de ADS pelo IFPE campus Paulista, tenho experiência com MYSQL, Python e Javascript mas atualmente tenho o foco em Java e Spring com motivação de me tornar um futuro desenvolvedor Back-end.
+
+  - ⚡ Eu gosto de jogar com amigos e também gosto de experiências single-player, meu hobby preferido atualmente é fazer música (percussão e maracatú). 🥁 Atualmente toco em um grupo percussivo chamado Batadoní 🐐 e também toco no maracatú nação Leão Coroado 🦁.
+</details>
+
 ###
 
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
@@ -47,5 +55,7 @@
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=rafacostadev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+![woods](https://github.com/user-attachments/assets/de4e2dfd-2de4-4b02-a901-36a3bd0128dc)
 
 ###
