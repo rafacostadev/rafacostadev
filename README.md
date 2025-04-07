@@ -25,7 +25,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim...</summary>
 
-  - 💬 Eu tenho 25 anos, estudante do curso tecnólogo de ADS pelo IFPE campus Paulista, tenho experiência com MYSQL, Python e Javascript mas atualmente tenho o foco em Java e Spring com motivação de me tornar um desenvolvedor Back-end.
+  - 💬 Eu tenho 26 anos, estudante do curso tecnólogo de ADS pelo IFPE campus Paulista, tenho experiência com MYSQL, Python e Javascript mas atualmente tenho o foco em Java e Spring com motivação de me tornar um desenvolvedor Back-end.
 
   - ⚡ Eu gosto de jogar com amigos e também gosto de experiências single-player, meu hobby preferido atualmente é fazer música (percussão e maracatú). 🥁 Atualmente toco em um grupo percussivo chamado Batadoní 🐐 e também toco no maracatú nação Leão Coroado 🦁.
 </details>
