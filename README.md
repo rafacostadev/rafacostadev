@@ -22,7 +22,7 @@ Engenheiro de Dados apaixonado por transformar grandes volumes de dados em ativo
 * Criação de documentação técnica para facilitação de onboarding. 
 
 ## 🌐 Idiomas
-* **Inglês:** Nível Profissional Pleno.
+* **Inglês:** Nível Avançado.
 * **Alemão:** Nível Elementar. 
 
 ## 📫 Como me encontrar
